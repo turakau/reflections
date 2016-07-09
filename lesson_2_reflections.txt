@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need it?
+
+You create the meta data to start keeping track of previous commits. You need if you want to do version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is the intermediary between the two and helps by making sure that what you are going to commit is logically sound.
