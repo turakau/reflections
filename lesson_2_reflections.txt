@@ -5,3 +5,11 @@ You create the meta data to start keeping track of previous commits. You need if
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is the intermediary between the two and helps by making sure that what you are going to commit is logically sound.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git status helps ensure you to double check what you are committing and you can see if its logical.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It would help if you wanted several versions of the same app but with different functionalities. Also it allows experimentations to occur on a build without affecting a stable build.
